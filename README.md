@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sulaogogo
 - 👀 I’m interested in Data Analytics or Web Development
 - 🌱 I’m currently learning Front End Development
-- 💞️ I’m looking to collaborate on any available project to help me my learn FOR FREE
+- 💞️ I’m looking to collaborate on any available project to help my learning process FOR FREE
 - 📫 How to reach me (sulaogogo@gmail.com)
 
 <!---
